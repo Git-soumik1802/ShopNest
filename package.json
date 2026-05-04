@@ -1,0 +1,22 @@
+{
+  "name": "shopnest-full-stack",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <img src=\"https://cdn-icons-png.flaticon.com/512/3514/3514491.png\" alt=\"ShopNest Logo\" width=\"80\" />   <h1>ShopNest - Full-Stack MERN E-Commerce App</h1>   <p>A professionally engineered, full-stack E-commerce platform built strictly using modern standard React (CRA) on the frontend and Express/MongoDB on the backend.</p> </div>",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd backend && npm install && cd ../frontend && npm install",
+    "dev:server": "cd backend && npm run dev",
+    "dev:client": "cd frontend && npm start",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "soumik",
+    "microservice"
+  ],
+  "author": "soumik",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

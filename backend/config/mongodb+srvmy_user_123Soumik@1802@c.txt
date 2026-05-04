@@ -1,0 +1,5 @@
+mongodb+srv://<my_user_123>:<Soumik@1802>@cluster0.kjxwb8b.mongodb.net/?appName=Cluster0
+mongodb+srv://my_user_123:<Soumik@1802>@cluster0.kjxwb8b.mongodb.net/
+mongodb+srv://my_user_123:Soumik@1802@cluster0.kjxwb8b.mongodb.net/
+username:-bnksouvik2019_db_user
+password:-2Ki4U3WBLpBa5t0K
