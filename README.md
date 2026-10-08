@@ -1,7 +1,7 @@
 <img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/9257395e-6f0b-4217-880a-148632c54ea1" />
 <<<<<<< HEAD
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3514/3514491.png" alt="ShopNest Logo" width="80" />
+
   <h1>ShopNest - Full-Stack MERN E-Commerce App</h1>
   <p>A professionally engineered, full-stack E-commerce platform built strictly using modern standard React (CRA) on the frontend and Express/MongoDB on the backend.</p>
 </div>
